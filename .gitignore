@@ -28,5 +28,5 @@ go.work
 *.env
 
 #DB data files
-/db-data
+db-data/
 myapp
